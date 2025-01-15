@@ -1,4 +1,5 @@
 Edit for the issue
+Closing the issue commit
 
 Place holder text here.
 
